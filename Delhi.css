@@ -1,0 +1,12 @@
+*{
+	margin: 0;
+	padding: 0;
+	box-sizing: border-box;
+	font-family: 'Josefin Sans', sans-serif;
+}
+body{
+	widows: auto; height: auto;
+	background-image:linear-gradient(rgba(0, 0, 0, 0.3),rgba(0, 0, 0, 1)), url('India_gate.jpg');
+	background-repeat: no-repeat;
+	background-size: cover;
+}
